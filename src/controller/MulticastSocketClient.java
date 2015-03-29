@@ -35,7 +35,6 @@ public class MulticastSocketClient extends Application {
 	 * Initialize the MulitcastSocketClient
 	 * @param host
 	 * @param port
-	 * @throws IOException
 	 */
 	public void setHostPort(InetAddress host , int port)
 	{
